@@ -1,0 +1,31 @@
+.example-input {
+    border: solid 1px black;
+    text-align: center;
+    border-radius: 10px;
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+.options-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.examples-container {
+    width: 500px;
+    height: 300px;
+
+}
+
+.p-state-data {
+    max-width: 490px;
+}
+
+[class*="section"] {
+    border: solid 2px black;
+    min-height: 33.3%;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
